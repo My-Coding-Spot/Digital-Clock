@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+    color: #190b5a;
+    background: #190b5a;
+}
+
+.container {
+    text-align: center;
+    width: 520px;
+    padding: 10px 0;
+    background: #fff;
+    border: none;
+    border-radius: 10px;
+    font-size: 7em;
+    font-weight: 600;
+    font-family: Calibri, sans-serif;
+    letter-spacing: 7px;
+}
